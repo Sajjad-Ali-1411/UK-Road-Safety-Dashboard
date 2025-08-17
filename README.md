@@ -81,6 +81,5 @@ The goal is to identify key accident trends, understand high-risk categories, an
 ---
 
 ## 🙌 Acknowledgments
-This is a sample **data analytics portfolio project**.  
-No personally identifiable information is included.  
+This is a sample **data analytics portfolio project**. 
 
