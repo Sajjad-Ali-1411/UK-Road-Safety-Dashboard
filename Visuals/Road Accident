@@ -1,1 +1,17 @@
+## 📊 Dashboard Visuals
+
+### 1. Overview Dashboard
+![Overview](visuals/RoadAccident_Overview.png)
+
+### 2. Casualties by Vehicle Type
+![Vehicles](visuals/RoadAccident_Vehicles.png)
+
+### 3. Accidents by Road Type
+![Road Type](visuals/RoadAccident_RoadType.png)
+
+### 4. Geographic Hotspots
+![Map](visuals/RoadAccident_Map.png)
+
+### 5. Yearly Trends
+![Trends](visuals/RoadAccident_Trends.png)
 
