@@ -54,25 +54,6 @@ The goal is to identify key accident trends, understand high-risk categories, an
 
 ---
 
-## 📊 Sample Visuals
-
-### Dashboard Overview
-![Dashboard Overview](visuals/RoadAccident_Overview.png)
-
-### Casualties by Vehicle Type
-![Vehicle Casualties](visuals/RoadAccident_Vehicles.png)
-
-### Road Type Analysis
-![Road Type](visuals/RoadAccident_RoadType.png)
-
-### Geographic Hotspots
-![Map](visuals/RoadAccident_Map.png)
-
-### Yearly Trends
-![Trends](visuals/RoadAccident_Trends.png)
-
----
-
 ## 📌 How to Use
 1. Download the `.pbix` file and open it in **Power BI Desktop**.  
 2. Explore interactive visuals for accident trends, road types, and location heatmaps.  
